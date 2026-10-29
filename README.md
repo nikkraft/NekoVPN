@@ -13,7 +13,7 @@
 
 ## 📑 Оглавление
 
-- [Скачивание](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-
+- [Скачивание](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-)
 - [Добавление подписки](#добавление-подписки)
 - [Дисклеймер](#дисклеймер)
 
