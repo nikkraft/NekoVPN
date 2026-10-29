@@ -11,7 +11,7 @@
 - [Дисклеймер](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80-%EF%B8%8F)
 - [Подписки](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B8)
 - [Гайд на Flclash](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#flclash-vpn--%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9-%D0%B3%D0%B0%D0%B9%D0%B4)
-- Гайд на AmneziaVpn
+- [Гайд на AmneziaVpn](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#amnezia-vpn--%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9-%D0%B3%D0%B0%D0%B9%D0%B4)
 
 ## Подписки
 
