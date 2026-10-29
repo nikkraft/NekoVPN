@@ -1,5 +1,8 @@
 # Nikkraft Vpn V2
 
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)]()
+[![Disclaimer](https://img.shields.io/badge/⚠️-disclaimer-red)](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80-%EF%B8%8F)
+
 ## 📑 Оглавление
 
 - [Дисклеймер](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80-%EF%B8%8F)
@@ -9,14 +12,9 @@
 
 ## Подписки
 
-### Flclash
-- [Скачивание](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-)
-- [Добавление подписки](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B8-)
+
 
 # FlClash VPN — короткий гайд
-
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)]()
-[![Disclaimer](https://img.shields.io/badge/⚠️-disclaimer-red)](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80-%EF%B8%8F)
 
 Краткая инструкция по скачиванию FlClash и добавлению подписки.
 
