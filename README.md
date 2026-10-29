@@ -1,11 +1,14 @@
 # Nikkraft Vpn V2
 
+[Дисклеймер](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80-%EF%B8%8F)
+
+## Подписки
+
 ## 📑 Оглавление
 
 ### Flclash
 - [Скачивание](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-)
 - [Добавление подписки](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B8-)
-- [Дисклеймер](https://github.com/nikkraft/Nikkraft-VPN-V2/blob/main/README.md#%D0%B4%D0%B8%D1%81%D0%BA%D0%BB%D0%B5%D0%B9%D0%BC%D0%B5%D1%80-%EF%B8%8F)
 
 # FlClash VPN — короткий гайд
 
