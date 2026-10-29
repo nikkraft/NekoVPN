@@ -37,17 +37,13 @@
 
 # Amnezia VPN — короткий гайд
 
-[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)]()
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Disclaimer](https://img.shields.io/badge/⚠️-disclaimer-red)](DISCLAIMER.md)
-
 Краткая инструкция по скачиванию Amnezia VPN и подключению.
 
 ## 📥 Скачивание
 
 | Платформа | Где взять |
 |-----------|-----------|
-| Android | Google Play, RuStore или [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) |
+| Android | [Google Play](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dorg.amnezia.vpn%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Damnezia%2Bvpn%26pcampaignid%3DAPPU_1_V6njao-SLuqawPAPtovMwQY&ved=2ahUKEwjPmd21heCXAxVqDRAIHbYFM2gQ5YQBegQIDhAC&sqi=2&usg=AOvVaw11pA9kszvH8Q9r-N8tiS8l) или [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) |
 | iOS | App Store — `AmneziaVPN` |
 | Windows | [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) — `.exe` |
 | macOS | [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) — `.dmg` |
