@@ -28,7 +28,7 @@
 |-----------|-----------|
 | Android | [Google Play](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.fclash.app%26hl%3Den_US%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dfclash%26pcampaignid%3DAPPU_1_GKfjarSFHdiowPAP497YsQQ&ved=2ahUKEwi08bSjg-CXAxVYFBAIHWMvNkYQ5YQBegQIEBAC&sqi=2&usg=AOvVaw1jOdw9uU2DEwIifk0rd9Im) или [GitHub Releases](https://github.com/chen08209/FlClash/releases) — `FlClash` |
 | Windows / macOS / Linux | [GitHub Releases](https://github.com/chen08209/FlClash/releases) — файл под вашу ОС (`.exe`, `.dmg`, `.AppImage`) |
-| iOS | FlClash нет — используйте Streisand или Shadowrocket |
+| iOS | FlClash нет — используйте [Streisand](https://apps.apple.com/us/app/streisand/id6450534064) или [Shadowrocket](https://apps.apple.com/ru/app/shadowrocket/id932747118) |
 
 ## Добавление подписки 🔗
 
@@ -46,7 +46,7 @@
 | Платформа | Где взять |
 |-----------|-----------|
 | Android | [Google Play](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dorg.amnezia.vpn%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Damnezia%2Bvpn%26pcampaignid%3DAPPU_1_V6njao-SLuqawPAPtovMwQY&ved=2ahUKEwjPmd21heCXAxVqDRAIHbYFM2gQ5YQBegQIDhAC&sqi=2&usg=AOvVaw11pA9kszvH8Q9r-N8tiS8l) или [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) |
-| iOS | App Store — `AmneziaVPN` |
+| iOS | [App Store](https://apps.apple.com/us/app/amneziavpn/id1600529900) |
 | Windows | [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) — `.exe` |
 | macOS | [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) — `.dmg` |
 | Linux | [GitHub Releases](https://github.com/amnezia-vpn/amnezia-client/releases) — `.AppImage` / пакет дистрибутива |
