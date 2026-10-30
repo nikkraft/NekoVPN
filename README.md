@@ -15,6 +15,7 @@
 
 ## Подписки
 
+[Amnezia Config](https://github.com/nikkraft/NekoVPN/blob/main/NekoVpnAmnezia.conf)(Нужно скачать)
 
 
 # FlClash VPN — короткий гайд
